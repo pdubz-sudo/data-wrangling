@@ -1,4 +1,3 @@
-
 # data-wrangling | web scraping and cleaning data
 scraping and cleaning data from Lund University web page
 
@@ -11,7 +10,7 @@ either inconsistent or lacking information. BeautifulSoup was used to extract th
 
 Files in repository:
 - code
-- image of the websit
+- image of the website
 - csv output file
 
 *Note: The code was run on December 11, 2017. If it does not work then the website has changed the format of their code.
