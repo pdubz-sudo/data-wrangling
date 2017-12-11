@@ -1,4 +1,4 @@
-# data-wrangling (web scraping and cleaning)
+# data-wrangling - web scraping and cleaning data
 scraping and cleaning data from Lund University web page
 
 Programming language: Python
