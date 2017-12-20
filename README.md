@@ -9,7 +9,7 @@ programs into a csv file. The education level of each program is then cleaned an
 either inconsistent or lacking information. BeautifulSoup was used to extract the data from the universities website.
 
 Files in repository:
-- code
+- code (list comprehension version and for-loop version)
 - image of the website
 - csv output file
 
