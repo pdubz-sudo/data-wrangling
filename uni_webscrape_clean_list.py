@@ -28,7 +28,7 @@ headers = "international_degree_program" + "," + "education_level\n" # make head
 f.write(headers) # writes the headers in your file. Start adding loop result
 
 
-########### make 2 lists of program names and education levels so that they can be put together in 1 list
+############ make 2 lists of program names and education levels so that they can be put together in 1 list
 # get span tag in each container (17 containers total)
 container_span = [container.find_all("span") for container in containers]
 
